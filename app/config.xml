@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Products>
+	<Category ID=1 Name ="Getränke_Heiß">
+		<Product 
+			Name="Espresso"
+			Image="xx.png"
+			Price=""
+			Costs=""
+			ID=1
+		/>
+		<Product 
+			Name="Tasse Kaffee"
+			Image="xx.png"
+			Price=""
+			Costs=""
+			ID=2
+		/>
+		<Product 
+			Name="Arabischer Kaffee"
+			Image="xx.png"
+			Price=""
+			Costs=""
+			ID=3
+		/>
+		<Product 
+			Name="Cappuccino"
+			Image="xx.png"
+			Price=""
+			Costs=""
+			ID=4
+		/>
+	</Category>
+	
+	<Category ID=2 Name ="Getränke_Kalt">
+		<Product 
+			Name="Wasser"
+			Image="xx.png"
+			Price=""
+			Costs=""
+			ID=1
+		/>
+		<Product 
+			Name="Coca-Cola"
+			Image="xx.png"
+			Price=""
+			Costs=""
+			ID=2
+		/>
+		<Product 
+			Name="Cola-Mix"
+			Image="xx.png"
+			Price=""
+			Costs=""
+			ID=3
+		/>
+		<Product 
+			Name="Fanta"
+			Image="xx.png"
+			Price=""
+			Costs=""
+			ID=4
+		/>
+		<Product 
+			Name="Sprite"
+			Image="xx.png"
+			Price=""
+			Costs=""
+			ID=5
+		/>
+		<Product 
+			Name="Eistee"
+			Image="xx.png"
+			Price=""
+			Costs=""
+			ID=6
+		/>
+		<Product 
+			Name="Apfelschorle"
+			Image="xx.png"
+			Price=""
+			Costs=""
+			ID=7
+		/>
+		<Product 
+			Name="Zitronenlimonade"
+			Image="xx.png"
+			Price=""
+			Costs=""
+			ID=8
+		/>
+		<Product 
+			Name="Red Bull"
+			Image="xx.png"
+			Price=""
+			Costs=""
+			ID=9
+		/>
+	</Category>
+	
+	<Category ID=3 Name="Alkohol">
+		<Product 
+			Name="Bier_Hell"
+			Image="helles Bier.png"
+			Price=""
+			Costs=""
+			ID=1
+		/>
+		<Product
+			Name="Bier_Weiß"
+			Image="weißbier.png"
+			Price=""
+			Costs=""
+			ID=2
+		/>
+		<Product
+			Name="Pils"
+			Image="Pils.png"
+			Price=""
+			Costs=""
+			ID=3
+		/>
+		<Product
+			Name="Bier_Hell_Alkoholfrei"
+			Image="Pils.png"
+			Price=""
+			Costs=""
+			ID=4
+		/>
+		<Product
+			Name="Bier_Weiß_Alkoholfrei"
+			Image="Pils.png"
+			Price=""
+			Costs=""
+			ID=5
+		/>
+		<Product
+			Name="Rotwein_Gespritzt"
+			Image="Pils.png"
+			Price=""
+			Costs=""
+			ID=6
+		/>
+		<Product
+			Name="Weißwein_Gespritzt"
+			Image="Pils.png"
+			Price=""
+			Costs=""
+			ID=7
+		/>
+		<Product
+			Name="Wodka"
+			Image="Pils.png"
+			Price=""
+			Costs=""
+			ID=8
+		/>
+		<Product
+			Name="Wodka_Pool"
+			Image="Pils.png"
+			Price=""
+			Costs=""
+			ID=9
+		/>
+		<Product
+			Name="Whisky"
+			Image="Pils.png"
+			Price=""
+			Costs=""
+			ID=10
+		/>
+		<Product
+			Name="Ouzo"
+			Image="Pils.png"
+			Price=""
+			Costs=""
+			ID=11
+		/>
+	</Category>
+	<Category ID=4 Name="Shisha">
+		<Product
+			Name="Blueberry Banane"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=1
+		/>
+		<Product
+			Name="Blueberry Minze"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=2
+		/>
+		<Product
+			Name="Ice Blueberry"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=3
+		/>
+		<Product
+			Name="Traube Minze"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=4
+		/>
+		<Product
+			Name="Zitrone Minze"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=5
+		/>
+		<Product
+			Name="Orange Minze Zitrone"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=6
+		/>
+		<Product
+			Name="Ice Bon Bon"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=7
+		/>
+		<Product
+			Name="Kiwi Banane"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=8
+		/>
+		<Product
+			Name="Wild Berry"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=9
+		/>
+		<Product
+			Name="Apfel Kirsche"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=10
+		/>
+		<Product
+			Name="Apfel Minze"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=11
+		/>
+		<Product
+			Name="Apfel Zitrone"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=12
+		/>
+		<Product
+			Name="Doppel Apfel"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=13
+		/>
+		<Product
+			Name="Orange Kiwi Zitrone"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=14
+		/>
+		<Product
+			Name="Tango Mango Ice"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=15
+		/>
+		<Product
+			Name="Mix Berry"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=16
+		/>
+		<Product
+			Name="Green Lemon"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=17
+		/>
+		<Product
+			Name="Kiwi Banane Mango"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=18
+		/>
+		<Product
+			Name="Lemon Minze"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=19
+		/>
+		<Product
+			Name="Vanilie Orange"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=20
+		/>
+		<Product
+			Name="Kaugummi Minze"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=21
+		/>
+		<Product
+			Name="Kaugummi"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=22
+		/>
+		<Product
+			Name="Kiwi Zitrone Ice"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=23
+		/>
+		<Product
+			Name="Kirsch Mango Orange"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=24
+		/>
+		<Product
+			Name="Wassermelone"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=25
+		/>
+		<Product
+			Name="Mojito"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=26
+		/>
+		<Product
+			Name="Kokusnuss"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=27
+		/>
+		<Product
+			Name="Vanilie Mango Minze"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=28
+		/>
+		<Product
+			Name="Melone Minze"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=29
+		/>
+		<Product
+			Name="Blaue Traube"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=30
+		/>
+		<Product
+			Name="Erdbeer Orange"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=31
+		/>
+		<Product
+			Name="Ananas"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=32
+		/>
+		<Product
+			Name="Kirsche"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=33
+		/>
+		<Product
+			Name="Love 66"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=34
+		/>
+		<Product
+			Name="Love 69"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=35
+		/>
+		<Product
+			Name="Blueberry Vanilie Ice"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=36
+		/>
+		<Product
+			Name="Zitrone Minze Ice"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=37
+		/>
+		<Product
+			Name="Blueberry Vanilie"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=38
+		/>
+		<Product
+			Name="Lemon Chili"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=39
+		/>
+		<Product
+			Name="Okolom"
+			Image="irgendwas.png"
+			Group="Shisha"
+			ID=40
+		/>
+	</Category>
+	<groups>
+		<group
+			ID=1
+			Name="Shisha"
+			Image="Shisha.png"
+			Price ="6.50"
+			Costs = "2.00"
+		/>
+		<group
+			ID=2
+			Name="Shisha_2"
+			Image="Shisha_2.png"
+			Price ="8.00"
+		/>
+		<group
+			ID=3
+			Name="Shisha_Früchte"
+			Image="Shisha_Früchte.png"
+			Price ="16.00"
+		/>
+	</groups>
+</Products>		
